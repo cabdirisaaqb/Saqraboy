@@ -1,0 +1,101 @@
+[
+  {"id":1,
+   "name":"barbarooni",
+   "img":"1.png",
+   "des":"waxaa logudar sadaa cuntada",
+   "prise":"0.25"
+  },
+  {
+  "id": 2,
+  "name": "Tufaax",
+   "img": "2.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "0.5"
+},
+{
+"id": 3,
+"name": "Hilib",
+"img": "3.png",
+"des": "waxaa logudar sadaa cuntada",
+"prise": "126"
+},
+{
+  "id": 4,
+  "name": "barbarooni",
+  "img": "4.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "12.6"
+},
+{
+  "id": 5,
+  "name": "Dooro",
+  "img": "5.png",
+  "des": "waxa logu cunanaa bariiska iyo baastada iyo iwm",
+  "prise": "4"
+},
+{
+  "id": 6,
+  "name": "saliid",
+  "img": "6.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "1"
+},
+{
+  "id": 7,
+  "name": "Qajaar",
+  "img": "7.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "0.5"
+},
+{
+  "id": 8,
+  "name": "barbarooni",
+  "img": "8.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "12.6"
+},
+{
+  "id": 9,
+  "name": "Dooti",
+  "img": "9.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "4"
+},
+{
+  "id": 10,
+  "name": "Malaay",
+  "img": "10.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "23"
+},
+{
+  "id": 11,
+  "name": "Bisbaas",
+  "img": "11.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "0.34"
+},
+{
+  "id": 13,
+  "name": "barbarooni",
+  "img": "13.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "12.6"
+},
+{
+  "id": 14,
+  "name": "Cadar",
+  "img": "14.png",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "300"
+},
+{
+  "id": 15,
+  "name": "Cadar",
+  "img": "product1.jpg",
+  "des": "waxaa logudar sadaa cuntada",
+  "prise": "300"
+}
+
+
+]
